@@ -1,6 +1,11 @@
-# macOS Cleaner Demo
+# macOS Cleaner
 
-这是一个适合初学者继续扩展的 macOS 清理工具练习项目。
+## 下载
+
+普通用户请直接前往 Releases 下载编译好的桌面版，不需要本地安装 Python 或重新编译。
+
+##前言
+这是我人生中做的第一个项目，相较于git上能找到的MacCleaner还是略显简单。我更愿意把这次开源当作一次记录，记录属于我的milestone。我无法想象多年以后我回看这个项目会是怎样的心情。
 
 项目的分工很简单：
 
@@ -278,4 +283,3 @@ python/webui/style.css          页面样式
 4. 最后看 `cpp/src/cleaner.cpp`
    - 理解真正的扫描规则和删除逻辑
 
-这样不会一开始就被大文件吓住。
